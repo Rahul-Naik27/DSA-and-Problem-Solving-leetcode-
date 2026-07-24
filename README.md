@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Rahul-Naik27/DSA-and-Problem-Solving-leetcode-/tree/master/0050-powx-n) |
+## Array
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahul-Naik27/DSA-and-Problem-Solving-leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahul-Naik27/DSA-and-Problem-Solving-leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
