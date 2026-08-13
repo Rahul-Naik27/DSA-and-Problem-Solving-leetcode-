@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rahul-Naik27/DSA-and-Problem-Solving-leetcode-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Rahul-Naik27/DSA-and-Problem-Solving-leetcode-/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Rahul-Naik27/DSA-and-Problem-Solving-leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahul-Naik27/DSA-and-Problem-Solving-leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Rahul-Naik27/DSA-and-Problem-Solving-leetcode-/tree/master/0238-product-of-array-except-self) |
 ## Dynamic Programming
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Rahul-Naik27/DSA-and-Problem-Solving-leetcode-/tree/master/0013-roman-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Rahul-Naik27/DSA-and-Problem-Solving-leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
